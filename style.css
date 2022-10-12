@@ -1,0 +1,28 @@
+.container{
+    margin-bottom: 75px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.btn-buy-now{
+    background-color: black;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+
+.sml h6{
+    color: rgb(252, 212, 49);
+}
+
+.row .card{
+    border: none;
+    box-shadow: 5px 8px 8px lightgray;
+    text-align: center;
+}
+
+.text{
+    text-align: center;
+}
